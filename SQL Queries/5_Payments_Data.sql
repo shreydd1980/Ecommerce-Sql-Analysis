@@ -1,0 +1,10 @@
+INSERT INTO Payments
+VALUES
+(1, 'Debit Card', 'Yes'),
+(2, 'POD', 'Yes'),
+(3, 'PayPal', 'Yes'),
+(4, 'Credit Card', 'Yes'),
+(5, 'Wallet', 'Yes'),
+(6, 'Net banking', 'Yes'),
+(7, 'PayLater', 'No'),
+(8, 'FoodCard', 'No');
