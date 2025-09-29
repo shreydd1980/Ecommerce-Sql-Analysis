@@ -48,9 +48,3 @@ This enables **better pricing, marketing, and operational strategies** to drive 
 - **Jupyter Notebook** for explanation and visualization  
 - **Database Design** using ERD  
 
----
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/shreydd1980/Ecommerce-Sql-Analysis
